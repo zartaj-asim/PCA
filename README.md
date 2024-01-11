@@ -1,0 +1,1 @@
+In this context, we explore the significance of multispectral images, emphasizing their role in Earth observation and applications such as land mapping. The focus shifts to the application of PCA as a powerful technique for managing large datasets, optimizing data for various downstream tasks.
